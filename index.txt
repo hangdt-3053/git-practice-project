@@ -2,3 +2,4 @@ TC001 Login
 TC002 Logout
 TC003 Search
 Contact: John Lee
+Email: john.lee@example.com
